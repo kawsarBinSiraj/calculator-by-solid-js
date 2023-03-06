@@ -1,2 +1,2 @@
-## calculator-by-solid-js 
+# calculator-by-solid-js 
 ### developed by kawsar bin siraj
